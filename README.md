@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KAMESHWARAN11/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/KAMESHWARAN11/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/KAMESHWARAN11/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KAMESHWARAN11/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/KAMESHWARAN11/leetcode/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/KAMESHWARAN11/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/KAMESHWARAN11/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KAMESHWARAN11/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KAMESHWARAN11/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
