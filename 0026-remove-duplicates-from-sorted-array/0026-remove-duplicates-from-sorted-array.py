@@ -1,0 +1,9 @@
+class Solution(object):
+    def removeDuplicates(self, nums):
+        k = 0 
+        for i in nums:
+            if i != nums[k]:
+                nums[k+1] = i 
+                k += 1
+        return k+1
+            
