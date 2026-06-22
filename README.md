@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KAMESHWARAN11/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/KAMESHWARAN11/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/KAMESHWARAN11/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/KAMESHWARAN11/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0941-valid-mountain-array](https://github.com/KAMESHWARAN11/leetcode/tree/main/0941-valid-mountain-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KAMESHWARAN11/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/KAMESHWARAN11/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
