@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KAMESHWARAN11/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/KAMESHWARAN11/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/KAMESHWARAN11/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KAMESHWARAN11/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/KAMESHWARAN11/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/KAMESHWARAN11/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/KAMESHWARAN11/leetcode/tree/main/0056-merge-intervals/) | Medium |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KAMESHWARAN11/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KAMESHWARAN11/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/KAMESHWARAN11/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/KAMESHWARAN11/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/KAMESHWARAN11/leetcode/tree/main/0283-move-zeroes/) | Easy |
