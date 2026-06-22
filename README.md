@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/KAMESHWARAN11/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/KAMESHWARAN11/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0412-fizz-buzz](https://github.com/KAMESHWARAN11/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KAMESHWARAN11/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/KAMESHWARAN11/leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 ## String
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KAMESHWARAN11/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/KAMESHWARAN11/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/KAMESHWARAN11/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0412-fizz-buzz](https://github.com/KAMESHWARAN11/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KAMESHWARAN11/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -64,5 +66,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/KAMESHWARAN11/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KAMESHWARAN11/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 <!---LeetCode Topics End-->
