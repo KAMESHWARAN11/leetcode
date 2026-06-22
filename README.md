@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KAMESHWARAN11/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/KAMESHWARAN11/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/KAMESHWARAN11/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0136-single-number](https://github.com/KAMESHWARAN11/leetcode/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/KAMESHWARAN11/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/KAMESHWARAN11/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/KAMESHWARAN11/leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/KAMESHWARAN11/leetcode/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/KAMESHWARAN11/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/KAMESHWARAN11/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/KAMESHWARAN11/leetcode/tree/main/0342-power-of-four/) | Easy |
