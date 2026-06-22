@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KAMESHWARAN11/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/KAMESHWARAN11/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/KAMESHWARAN11/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/KAMESHWARAN11/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/KAMESHWARAN11/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KAMESHWARAN11/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/KAMESHWARAN11/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/KAMESHWARAN11/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/KAMESHWARAN11/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/KAMESHWARAN11/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/KAMESHWARAN11/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 <!---LeetCode Topics End-->
