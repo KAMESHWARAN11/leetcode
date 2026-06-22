@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/KAMESHWARAN11/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/KAMESHWARAN11/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KAMESHWARAN11/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/KAMESHWARAN11/leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 ## String
 | Problem Name | Difficulty |
