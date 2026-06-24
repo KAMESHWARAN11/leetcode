@@ -1,21 +1,19 @@
 class Solution:
     def validPalindrome(self, s: str) -> bool:
-
-        def check(left, right):
-            while left < right:
-                if s[left] != s[right]:
-                    return False
-                left += 1
-                right -= 1
+        if s == s[::-1]:
             return True
-
-        left = 0
-        right = len(s) - 1
-
-        while left < right:
-            if s[left] == s[right]:
-                left += 1
-                right -= 1
-            else:
-                return check(left + 1, right) or check(left, right - 1)
-        return True
+        a = 0
+        b = len(s)-1
+        while s[a] == s[b] and a<b:
+            a+=1
+            b-=1
+        if a>=b:
+            return True
+        
+        m = s[a:b]
+        n = s[a+1:b+1]
+        if m == m[::-1]:
+            return True
+        if n == n[::-1]:
+            return True
+        return False
