@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/KAMESHWARAN11/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/KAMESHWARAN11/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0941-valid-mountain-array](https://github.com/KAMESHWARAN11/leetcode/tree/main/0941-valid-mountain-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/KAMESHWARAN11/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KAMESHWARAN11/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KAMESHWARAN11/leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/KAMESHWARAN11/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/KAMESHWARAN11/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/KAMESHWARAN11/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
