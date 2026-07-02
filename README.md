@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KAMESHWARAN11/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/KAMESHWARAN11/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/KAMESHWARAN11/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0704-binary-search](https://github.com/KAMESHWARAN11/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0941-valid-mountain-array](https://github.com/KAMESHWARAN11/leetcode/tree/main/0941-valid-mountain-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/KAMESHWARAN11/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KAMESHWARAN11/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/KAMESHWARAN11/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KAMESHWARAN11/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/KAMESHWARAN11/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/KAMESHWARAN11/leetcode/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
