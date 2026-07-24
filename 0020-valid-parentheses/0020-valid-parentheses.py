@@ -1,47 +1,18 @@
-class Solution(object):
-    def isValid(self, s):
+class Solution:
+    def isValid(self, s: str) -> bool:
+        pairs = {
+            ')': '(',
+            ']': '[',
+            '}': '{'
+        }
         stack = []
-
-        for ch in s:
-
-    # Opening brackets
-            if ch == "(" or ch == "[" or ch == "{":
+        for ch in s :
+            if  ch in "({[" :
                 stack.append(ch)
-
-    # Closing bracket )
-            elif ch == ")":
-
-        # stack empty?
-                if not stack:
-                    return False
-
-                top = stack.pop()
-
-                if top != "(":
-                    return False
-
-    # Closing bracket ]
-            elif ch == "]":
-
-                if not stack:
-                    return False
-
-                top = stack.pop()
-
-                if top != "[":
-                    return False
-
-    # Closing bracket }
-            elif ch == "}":
-
-                if not stack:
-                    return False
-
-                top = stack.pop()
-
-                if top != "{":
-                   return False
-
-
-# After processing everything
-        return len(stack) == 0
+            elif not stack :
+                return False
+            elif stack[-1] == pairs[ch]:
+                stack.pop()
+            else:
+                return False
+        return not stack
