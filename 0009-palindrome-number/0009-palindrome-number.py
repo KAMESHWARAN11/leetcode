@@ -9,7 +9,5 @@ class Solution:
                 digit = x%10
                 rev = rev*10 + digit 
                 x = x//10
-            if original == rev :
-                return True
-            else :
-                return False
+            return  (original == rev )
+            
