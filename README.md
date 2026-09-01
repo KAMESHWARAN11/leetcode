@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/KAMESHWARAN11/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0941-valid-mountain-array](https://github.com/KAMESHWARAN11/leetcode/tree/main/0941-valid-mountain-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/KAMESHWARAN11/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/KAMESHWARAN11/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KAMESHWARAN11/leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KAMESHWARAN11/leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/KAMESHWARAN11/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
